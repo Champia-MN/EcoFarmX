@@ -28,7 +28,11 @@ EcoFarmX uses low-cost IoT sensors (ESP32, soil moisture, temperature, and humid
 > Upload your screenshots in the repository and link them below:
 - ![Screenshot 1](WhatsApp Image 2025-07-05 at 8.17.26 PM.jpeg)
 - ![Screenshot 2](WhatsApp Image 2025-07-05 at 8.17.25 PM.jpeg)
-- 
+- ![Screenshot 3]
+- ![Screenshot 4]
+- ![Screenshot 5]
+- ![Screenshot 6]
+- ![Screenshot 7]
 
 ---
 
