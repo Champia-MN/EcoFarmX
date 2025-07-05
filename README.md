@@ -25,14 +25,28 @@ EcoFarmX uses low-cost IoT sensors (ESP32, soil moisture, temperature, and humid
 ---
 
 ## 📸 Screenshots
-> Upload your screenshots in the repository and link them below:
-- ![Screenshot 1](WhatsApp Image 2025-07-05 at 8.17.26 PM.jpeg)
-- ![Screenshot 2](WhatsApp Image 2025-07-05 at 8.17.25 PM.jpeg)
-- ![Screenshot 3](WhatsApp Image 2025-04-05 at 2.21.02 PM.jpeg)
-- ![Screenshot 4](WhatsApp Image 2025-04-05 at 2.21.50 PM.jpeg)
-- ![Screenshot 5](WhatsApp Image 2025-04-05 at 2.22.39 PM.jpeg)
-- ![Screenshot 6](WhatsApp Image 2025-07-05 at 8.17.24 PM.jpeg)
-- ![Screenshot 7](WhatsApp Image 2025-07-05 at 8.17.26 PM (1).jpeg)
+## 📸 Screenshots
+
+### 1️⃣ Login Page
+![Login Page](https://github.com/Champia-MN/EcoFarmX/blob/main/WhatsApp%20Image%202025-07-05%20at%208.17.24%20PM.jpeg?raw=true)
+
+### 2️⃣ Dashboard / Device Control
+![Dashboard](https://github.com/Champia-MN/EcoFarmX/blob/main/WhatsApp%20Image%202025-07-05%20at%208.17.25%20PM.jpeg?raw=true)
+
+### 3️⃣ Live Sensor Readings
+![Sensor Reading](https://github.com/Champia-MN/EcoFarmX/blob/main/WhatsApp%20Image%202025-07-05%20at%208.17.26%20PM.jpeg?raw=true)
+
+### 4️⃣ Alert Notification UI
+![Alert UI](https://github.com/Champia-MN/EcoFarmX/blob/main/WhatsApp%20Image%202025-07-05%20at%208.17.26%20PM%20(1).jpeg?raw=true)
+
+### 5️⃣ Moisture & Temperature Chart
+![Chart](https://github.com/Champia-MN/EcoFarmX/blob/main/WhatsApp%20Image%202025-04-05%20at%202.22.39%20PM.jpeg?raw=true)
+
+### 6️⃣ Control Panel Page
+![Control Panel](https://github.com/Champia-MN/EcoFarmX/blob/main/WhatsApp%20Image%202025-04-05%20at%202.21.02%20PM.jpeg?raw=true)
+
+### 7️⃣ Field Monitoring Page
+![Field Monitoring](https://github.com/Champia-MN/EcoFarmX/blob/main/WhatsApp%20Image%202025-04-05%20at%202.21.50%20PM.jpeg?raw=true)
 
 ---
 
