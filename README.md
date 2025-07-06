@@ -72,11 +72,10 @@ EcoFarmX uses low-cost IoT sensors (ESP32, soil moisture, temperature, and humid
 
 ---
 
-## 📽️ Optional: Demo Video
+## 📽️ Demo Video
 > Upload your screen-recorded demo and add the link here (Google Drive or YouTube)
-- [Watch Demo Video](https://drive.google.com/your-demo-link)
+- [Watch Demo Video](https://drive.google.com/file/d/1ykq1zyykjeRycDBZ4CsvLJaa_bZaqS7M/view?usp=sharing)
 
 ---
 
-## 📩 Contact
-Have questions? Reach out to champiamn@email.com
+
